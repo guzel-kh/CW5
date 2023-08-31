@@ -1,8 +1,8 @@
 from db_manager import DBManager
 
-
-#Подключиться к базе данных, создать таблицу vacancies, добавить данные в таблицу
 dbm = DBManager()
+# Работа с БД
+# Создать таблицу vacancies, добавить данные в таблицу
 # dbm.create_table()
 # dbm.add_data_to_db()
 # dbm.end_operation()
